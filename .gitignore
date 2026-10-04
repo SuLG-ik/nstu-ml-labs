@@ -1,0 +1,7 @@
+Рисунки/
+Результаты/
+logs/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.venv/
